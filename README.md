@@ -88,39 +88,6 @@
   <span> | 3D Design & Printing (Fusion 360) | ROS2 for Robotics </span>
 </p>
 
-<h3 align="left">RPA Tools:</h3>
-<p align="left">
-  <!-- UiPath -->
-  <a href="https://www.uipath.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.uipath.com/hubfs/logos/UiPath-Vertical-Color.svg" 
-         alt="UiPath" 
-         width="40" 
-         height="40"/>
-  </a>
-  <!-- Automation Anywhere -->
-  <a href="https://www.automationanywhere.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.automationanywhere.com/sites/default/files/2022-02/A%20logo%20only.png" 
-         alt="Automation Anywhere" 
-         width="40" 
-         height="40"/>
-  </a>
-  <!-- Power Automate -->
-  <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Power_Automate_logo.svg" 
-         alt="Power Automate" 
-         width="40" 
-         height="40"/>
-  </a>
-  <!-- Blue Prism -->
-  <a href="https://www.blueprism.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/6/6a/Blue_Prism_logo_2018.png"
-         alt="Blue Prism" 
-         width="60" 
-         height="40"/>
-  </a>
-</p>
-
-
 <p align="left">
   <!-- Other Tools & Frameworks -->
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
@@ -178,3 +145,36 @@
          height="40"/>
   </a>
 </p>
+
+<h3 align="left">RPA Tools:</h3>
+<p align="left">
+  <!-- UiPath -->
+  <a href="https://www.uipath.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.uipath.com/hubfs/logos/UiPath-Vertical-Color.svg" 
+         alt="UiPath" 
+         width="40" 
+         height="40"/>
+  </a>
+  <!-- Automation Anywhere -->
+  <a href="https://www.automationanywhere.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.automationanywhere.com/sites/default/files/2022-02/A%20logo%20only.png" 
+         alt="Automation Anywhere" 
+         width="40" 
+         height="40"/>
+  </a>
+  <!-- Power Automate -->
+  <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Power_Automate_logo.svg" 
+         alt="Power Automate" 
+         width="40" 
+         height="40"/>
+  </a>
+  <!-- Blue Prism -->
+  <a href="https://www.blueprism.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/6a/Blue_Prism_logo_2018.png"
+         alt="Blue Prism" 
+         width="60" 
+         height="40"/>
+  </a>
+</p>
+
