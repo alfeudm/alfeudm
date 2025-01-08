@@ -5,6 +5,22 @@
   I'm a technology enthusiast who loves to automate tasks and solve problems with code. Currently, I work mainly with Python, Docker, Linux, and PowerShell, and I'm diving into Rust to expand my skill set.
 </p>
 
+<p align="left">
+  Experienced Solution Developer with 10+ years of expertise in developing software 
+  applications, automating business processes, and implementing and maintaining 
+  automation solutions to reduce costs and optimize production time. Skilled in RPA, 
+  system integrations, and applying programming best practices. Proficient in 
+  redesigning solutions for new projects and maintaining existing systems. Possesses 
+  strong analytical and problem-solving skills, leveraging innovative technologies to 
+  develop efficient processes and support project lifecycle management. Experienced 
+  in creating comprehensive documentation and training others.
+</p>
+
+<p align="left">
+  In my free time, I enjoy working with Fusion 360 to design and 3D-print prototypes.
+  I also love experimenting with <strong>ROS2</strong> to bring real-life robot ideas to life.
+</p>
+
 ---
 
 <h3 align="left">Connect with me:</h3>
@@ -69,6 +85,7 @@
          width="40" 
          height="40"/>
   </a>
+  <span> | 3D Design & Printing (Fusion 360) | ROS2 for Robotics </span>
 </p>
 
 <p align="left">
