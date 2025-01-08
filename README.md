@@ -89,7 +89,7 @@
 </p>
 
 <p align="left">
-  <!-- Other Tools & Frameworks -->
+  <h3 align="left"> Other Tools & Frameworks:</h3>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
          alt="dotnet" 
